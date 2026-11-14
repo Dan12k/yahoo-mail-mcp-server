@@ -91,3 +91,9 @@ Sammy doesn't want a discount code - don't suggest one again. Still to do: ask S
 14 Nov update: bio and links now point to the snow foam and the Creator Kit. Sammy is posting a wash on her Story today and adding it to the Aura highlight. She gets monthly sales reports from Splash. There were no Aura orders in October or November so far, which means the buy-to-enter giveaway has had no entries. Correction: the bio link's text says interior cleaner but it does go to the snow foam page, so the link was never the problem. Likely causes: the snow foam hasn't appeared in any feed post since 15 Oct apart from the giveaway, there was no reason to buy now, and a single £11 order doesn't reach Splash's £30 free delivery. Proposed fixes are in the 14 Nov chat: turn the giveaway into free entry with a Creator Kit prize, a weekly snow foam reel, a post about why she made it, and checking Story link taps.
 
 The '5 things all car enthusiasts know' and 'unpopular opinions' carousels were posted before 15 Oct, so the 30-day Windsor trial can't see them. Waiting on Sammy's in-app numbers for those posts (reach, follows, shares, saves, profile visits). Posting schedule for 16-22 Nov was given in the 14 Nov chat.
+
+## Comment moderation (14 Nov)
+Hid 7 sexual or creepy comments via Windsor.ai, with Sammy's approval. They can be reversed with unhide_comment.
+17990039684883112 johnyjackson68, 18099891785656259 thereaaldeaall, 17958161841269959 factuals00 and 18082741772356220 eudald_ndt (all on the 1 Nov Polo post). 17914763538475246 user.rvdh (1 Nov). 18154714849553819 podval4ik77 (27 Oct reel, vulgar Russian slang). 18639621445017650 rishabhsingh9404 (1 Nov, asking if she's single).
+Left visible but flagged to Sammy: onlyteabatch "Sexay" (22 Oct) and the.v8.kitcar "Dm me we need to model" (22 Oct).
+Sammy is replying to comments herself using the drafted replies from the 14 Nov chat.
