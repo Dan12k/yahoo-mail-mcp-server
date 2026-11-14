@@ -97,3 +97,4 @@ Hid 7 sexual or creepy comments via Windsor.ai, with Sammy's approval. They can 
 17990039684883112 johnyjackson68, 18099891785656259 thereaaldeaall, 17958161841269959 factuals00 and 18082741772356220 eudald_ndt (all on the 1 Nov Polo post). 17914763538475246 user.rvdh (1 Nov). 18154714849553819 podval4ik77 (27 Oct reel, vulgar Russian slang). 18639621445017650 rishabhsingh9404 (1 Nov, asking if she's single).
 Left visible but flagged to Sammy: onlyteabatch "Sexay" (22 Oct) and the.v8.kitcar "Dm me we need to model" (22 Oct).
 Sammy is replying to comments herself using the drafted replies from the 14 Nov chat.
+Car facts: the S55 is a 2004 (W220). The Polo GTI is a 5 door. Comment replies were posted on 14 Nov to capelvehiclecleaning, thememedealer68_, eliteauto_ca, elvis2023__, kyle.b.146 and garebear_003.
