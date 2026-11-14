@@ -83,3 +83,8 @@ A scheduled task that runs every Monday at 8:00am Europe/London. It reviews the 
 
 ## Tone rules for the report
 Same as part 1: casual and direct like a friend, never corporate, no waffle. No bullet points unless asked. Plain hyphens only, no em or en dashes. Never a comma before "and". No generic advice - use her actual data.
+
+## Aura snow foam sales (14 Nov)
+Aura is sold on splashdetailing.co.uk. The snow foam is £11 (https://splashdetailing.co.uk/products/aura-snow-foam). The Aura Creator Kit (snow foam, shampoo and quick detailer) is £37 and gets free delivery over £30. The full range is at https://splashdetailing.co.uk/collections/aura.
+The bio link was still pointing to the Aura interior cleaner page, with a Facebook tracking string on the end. New bio and link setup suggested on 14 Nov.
+To do: ask Splash for a personal discount code, sales tracking or commission, and Instagram product tagging. Also get a free way to enter added to the giveaway.
