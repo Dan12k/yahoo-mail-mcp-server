@@ -170,3 +170,19 @@ Week 2:
 
 ### After each trial
 Share the winners to followers. Leave the losers as trials, since nobody but non-followers ever saw them. Write down the winning hook and reuse that style. Check whether the reel brought in follows by looking at new followers on the day it was shared.
+
+---
+
+## Part 5 - Caption bank, posting times and reel tips (added 14 Nov)
+
+### Caption bank
+Polo: "Everyone said get the Golf. I drove both and went home in this. Would you have done the same?" / "Small car, big grin. What's the most fun car you've driven that wasn't fast on paper?" / "Daily driving a GTI through a UK winter. Pothole count this week - too many. Worst road near you?"
+S55: "2004 and still turning more heads than anything new in the car park. Future classic or already one?" / "Fuel bill says sell it. The supercharger says absolutely not. Who wins?" / "People expect a man to get out of this. Then I do. Best reaction you've had at a petrol station?" / "W220 or W221 - only one answer allowed."
+Both: "One for Monday to Friday. One for Sunday mornings. Which one are you taking on a road trip?"
+Snow foam (#ad): "#ad Black paint in November is a cry for help. Snow foam first, contact wash second, always. Pre-wash or straight in with the mitt?" / "#ad I made my own snow foam because I was sick of ones stripping my wax. What do you want from car care that nobody makes?"
+Events: "Parked Up, episode 2. Found this tucked in a corner at [show] and couldn't walk past. Sleeper or show car?" / "Best car at [show] wasn't the most expensive one. Which would you have gone home in?"
+Opinions: "Car people only - what's a car everyone hates that you secretly love?" / "Hot take: manual or nothing. Change my mind."
+
+### Posting times (17 posts, 15 Oct to 13 Nov - small sample)
+Her two biggest posts went out on a Sunday and a Monday at about 6pm UK time. Evening posts between 5pm and 7pm did best. The two morning reels flopped, but they were also "hi" reels, so the time isn't proven to be the cause. Day of the week mattered less than the caption: the 8 Nov Sunday post flopped with a two-word caption.
+Plan: put the strongest feed posts on Sunday and Monday at 6pm. Other feed posts Tuesday to Thursday, 5pm to 7pm. 4 or 5 feed posts a week, not every day. Stories daily. Trial Reels can go out any day, because followers don't see them.
