@@ -87,4 +87,4 @@ Same as part 1: casual and direct like a friend, never corporate, no waffle. No 
 ## Aura snow foam sales (14 Nov)
 Aura is sold on splashdetailing.co.uk. The snow foam is £11 (https://splashdetailing.co.uk/products/aura-snow-foam). The Aura Creator Kit (snow foam, shampoo and quick detailer) is £37 and gets free delivery over £30. The full range is at https://splashdetailing.co.uk/collections/aura.
 The bio link was still pointing to the Aura interior cleaner page, with a Facebook tracking string on the end. New bio and link setup suggested on 14 Nov.
-To do: ask Splash for a personal discount code, sales tracking or commission, and Instagram product tagging. Also get a free way to enter added to the giveaway.
+Sammy doesn't want a discount code - don't suggest one again. Still to do: ask Splash for a sales report or commission and for Instagram product tagging. Giveaway entry is buy plus follow both accounts. A purchase at the normal price is probably fine under UK rules, but Splash should confirm the T&Cs (closing date, how the winner is picked, eligibility). Label snow foam promo posts as an ad or paid partnership, because she has a commercial interest in it.
