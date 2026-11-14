@@ -48,7 +48,7 @@ Captions went lazy from late October - one-liners with nothing to reply to. What
 - Plan two weeks of posts around the first Parked Up episode.
 - Fix bio link mismatch.
 - Yahoo mail and the built-in browser are disconnected until the chat is reopened in the desktop app.
-- Weekly insights review task created 14 Nov, but Windsor.ai still needs adding to it - see part 2.
+- Weekly insights review task is live - see part 2.
 
 ---
 
@@ -69,8 +69,9 @@ A scheduled task that runs every Monday at 8:00am Europe/London. It reviews the 
 - 14 Nov update: Windsor.ai is connected (Instagram connector, account carswithsammy, id 17841430493341516). A test pull worked: reach, views, likes, comments, saves, shares, follows per post, profile visits, reel watch time and skip rate, plus daily new followers.
 - Data gap: Instagram doesn't give follows or profile visits per reel. Reels are judged on daily new followers around the post date instead (an estimate).
 - Use media_like_count / media_comments_count. The media_total_* fields came back empty.
-- Scheduled task "Weekly Instagram review - carswithsammy" (trig_01XjXgbH11AAAF6aybNWtAuG) created. Runs Mondays 7:47am Europe/London, fresh session each time, push notification. First run 16 Nov.
-- Open: the task was saved WITHOUT the Windsor.ai connector (this organization doesn't allow attaching it from a session). Windsor.ai has to be added to the task in claude.ai, or the run will report that the tools are missing.
+- Scheduled task "Weekly Instagram review - carswithsammy" (trig_01H2XmJ4aeBgaRYnLtuD81Gn) runs Mondays 7:47am Europe/London. First run 16 Nov.
+- It fires into the original Claude Code session (session_012rHePXNNAMMf1ydsAGp2Vb), because that session has Windsor.ai. A task that starts a fresh session each time couldn't have the connector attached in this organization. Each run also adds a line to the weekly review log at the end of this file.
+- No phone push for this kind of task - check that session on Monday mornings.
 
 ## Next steps
 1. Confirm the connector is live and can pull post-level data for @carswithsammy: reach, views, saves, shares, watch time, follows, profile visits.
