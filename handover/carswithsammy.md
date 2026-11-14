@@ -98,3 +98,6 @@ Hid 7 sexual or creepy comments via Windsor.ai, with Sammy's approval. They can 
 Left visible but flagged to Sammy: onlyteabatch "Sexay" (22 Oct) and the.v8.kitcar "Dm me we need to model" (22 Oct).
 Sammy is replying to comments herself using the drafted replies from the 14 Nov chat.
 Car facts: the S55 is a 2004 (W220). The Polo GTI is a 5 door. Comment replies were posted on 14 Nov to capelvehiclecleaning, thememedealer68_, eliteauto_ca, elvis2023__, kyle.b.146 and garebear_003.
+
+## Trial Reels test log
+15 Nov (Sun evening): first test. Same S55 reel posted as 3 trials, each with a different on-screen hook. Hooks: "Rate this sound out of 10" / "A supercharged V8 in a limo. Yes really" / "The most underrated AMG ever made?" Check results after 24h and decide by 72h. Record skip rate, average watch time, views, shares and follows.
