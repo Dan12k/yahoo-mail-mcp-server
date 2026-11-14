@@ -101,3 +101,4 @@ Car facts: the S55 is a 2004 (W220). The Polo GTI is a 5 door. Comment replies w
 
 ## Trial Reels test log
 15 Nov (Sun evening): first test. Same S55 reel posted as 3 trials, each with a different on-screen hook. Hooks: "Rate this sound out of 10" / "A supercharged V8 in a limo. Yes really" / "The most underrated AMG ever made?" Check results after 24h and decide by 72h. Record skip rate, average watch time, views, shares and follows.
+Profile (14 Nov): name field stays as just "Sammy" (her choice - don't suggest changing it again). Bio: "UK Car Enthusiast / S55 AMG & Polo GTI / Cars / Shows / Honest Opinions / Made my own snow foam 🧼 Aura X Splash ⬇️". Pins were changed but couldn't be checked through the API.
