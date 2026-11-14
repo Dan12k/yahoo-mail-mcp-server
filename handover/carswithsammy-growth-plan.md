@@ -136,3 +136,37 @@ The weekly report will score you on three numbers:
 
 ## Things to sort outside Instagram
 The Windsor.ai trial only gives 30 days of history and will end at some point. When it does, the Monday report stops. Check when the trial ends and whether the paid plan is worth it to you. The other option is to switch to sending screenshots each Monday.
+
+---
+
+## Part 4 - Trial Reels (added 14 Nov)
+
+### What they are
+A Trial Reel is shown to non-followers only. It stays off her grid and out of her followers' feeds. It sits in the "Drafts and trial reels" section of her profile, which only she can see. After roughly 24 hours she can see how it's doing. She can then share it to everyone by hand, or turn on auto-share so Instagram shares it if it does well in the first 72 hours. She needs a public professional account with 1,000+ followers, which she has.
+
+### Why it suits her
+Her reels lose 43% to 75% of viewers in the first 3 seconds. Her talking reels got 196 to 1,185 reach. Trial Reels let her test openings and new formats on strangers, so a flop never shows up in her followers' feeds or on her grid.
+
+### Her benchmarks from the last 30 days
+Average watch time 3.8 to 7.5 seconds. Skip rate 43% to 75%. The S55 reels reached about 8,000 people each, with about 50 shares.
+A trial counts as a winner if it gets under 50% skip rate, over 6 seconds average watch time, and shares pulling ahead of likes.
+
+### How to post one
+Make the reel as normal. On the final share screen, switch on "Trial" before posting. Leave auto-share off for the first couple of weeks so she sees every result herself. Check it after 24 hours, then decide at 48 to 72 hours.
+
+### The testing method
+Change one thing at a time. Same clip, different first second or on-screen hook. Run 3 trials a week alongside normal posting.
+
+### First two weeks of tests
+Week 1, S55 sound clip, same footage with 3 different hooks:
+1. "Rate this sound out of 10"
+2. "A supercharged V8 in a limo. Yes really"
+3. "The most underrated AMG ever made?"
+
+Week 2:
+1. Polo GTI B-road clip: "Is this the best hot hatch you can daily?"
+2. Aura snow foam on the black S55, opening on the foam hitting the paint. Keep #ad in the caption.
+3. Talking reel: "Things I've been told at car shows that I'm still thinking about." Open on the most outrageous one, not on "hi".
+
+### After each trial
+Share the winners to followers. Leave the losers as trials, since nobody but non-followers ever saw them. Write down the winning hook and reuse that style. Check whether the reel brought in follows by looking at new followers on the day it was shared.
