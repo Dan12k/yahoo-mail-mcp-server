@@ -1,6 +1,6 @@
 # HANDOVER - CarswithSammy Content Creation
 
-Note: this is the handover from one chat in the project. The summary from the second chat is still to be added.
+This file merges the handovers from both chats in the project: content strategy (part 1) and the weekly insights review task (part 2).
 
 ## Project setup
 Project name: CarswithSammy Content Creation. Purpose: Instagram growth for @carswithsammy - content ideas, insights analysis, follower growth and retention. Niche is automotive, woman in a male-dominated space. One doc: "Carswithsammy Profile", containing only the link instagram.com/carswithsammy. No files saved in the workspace.
@@ -48,4 +48,33 @@ Captions went lazy from late October - one-liners with nothing to reply to. What
 - Plan two weeks of posts around the first Parked Up episode.
 - Fix bio link mismatch.
 - Yahoo mail and the built-in browser are disconnected until the chat is reopened in the desktop app.
-- Add the summary from the second project chat.
+- Weekly insights review task still not set up - see part 2.
+
+---
+
+# Part 2 - Weekly Instagram insights review (scheduled task)
+
+## Goal
+A scheduled task that runs every Monday at 8:00am Europe/London. It reviews the previous Mon-Sun of @carswithsammy posts and insights and gives a detailed breakdown of:
+- what performed well and why
+- what converted followers (follows per post, not just views)
+- what to focus on for the week ahead
+
+## Status (as of 11 Nov 2026)
+- The task has not been created yet.
+- Blocker: no Instagram data source is connected. Nothing in the session could read Instagram insights.
+- Sammy chose to connect an Instagram analytics connector (Windsor.ai or Supermetrics) instead of using Chrome or sending screenshots each week. Not confirmed connected yet.
+- The account must be a Creator or Business account to get insights.
+- Check that the connector's free tier covers Instagram.
+- 14 Nov check from a cloud session: no Instagram or Supermetrics tools were available there either, so this is still blocked.
+
+## Next steps
+1. Confirm the connector is live and can pull post-level data for @carswithsammy: reach, views, saves, shares, watch time, follows, profile visits.
+2. Create the Monday 8am scheduled task with a standalone prompt that covers the goal above.
+3. Fallbacks: Chrome on her computer (must be switched on and logged in at 8am) or screenshots sent each Monday.
+
+## Existing scheduled tasks
+- "Email triage" runs daily at 8am. Leave it alone.
+
+## Tone rules for the report
+Same as part 1: casual and direct like a friend, never corporate, no waffle. No bullet points unless asked. Plain hyphens only, no em or en dashes. Never a comma before "and". No generic advice - use her actual data.
