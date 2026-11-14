@@ -35,7 +35,7 @@ Pin the 1 Nov "makes me not want to sell it" post to your grid. It's your best c
 ### Polo or S55?
 Both, but they do different jobs.
 
-The S55 is your reach engine. It gets shared. "S Class Perfection" got 207 shares and 30,713 reach, and the two S55 reels got 49 and 53 shares, which is far more than anything else you posted. Shares are what push you to non-followers.
+The S55 is your reach engine. It gets shared. "S Class Perfection" got 207 shares and 30,713 reach. The two S55 reels got 49 and 53 shares, which is far more than anything else you posted. Shares are what push you to non-followers.
 
 The Polo is your conversion engine, but only when you talk about it like it's yours. The 1 Nov Polo story post got 137 follows and 310 saves. The 3 Nov follow-up got 65 follows. Polo posts with one-line captions got 1 or 2 follows each.
 
@@ -53,7 +53,7 @@ Per 1,000 reach, Polo carousels averaged 3.4 follows and S55 carousels 1.7. But 
 | polo gti 💞 (8 Nov) | Polo | 2,587 | 1 | 0.4 | 14 | 3 |
 
 ### Reels or photos?
-On your account right now, carousels win, and it isn't close. Your 8 carousels averaged 13,400 reach each. Your 9 reels averaged 3,100.
+On your account right now, carousels win by a mile. Your 8 carousels averaged 13,400 reach each. Your 9 reels averaged 3,100.
 
 The S55 reels are the exception at around 8,000 reach each. But follower days around them didn't move: 21, 17, 17 and 11 a day from 25 to 28 Oct, against a 30-day average of 18.
 
@@ -79,7 +79,7 @@ You're on 25,582 and averaging about 18 new followers a day. Hitting 30k by 31 D
 ## Part 3 - Step by step plan
 
 ### Step 1 - Fix the leaks (this week, one afternoon)
-1. Bio. Rewrite it to say what people get by following, and make the link match. Something like: "UK car girl - S55 AMG + Polo GTI / Shows, drives and honest opinions / My snow foam 👇". Point the link at the snow foam or a link page with both products.
+1. Bio. Rewrite it to say what people get by following. Make the link match too. Something like: "UK car girl - S55 AMG + Polo GTI / Shows, drives and honest opinions / My snow foam 👇". Point the link at the snow foam or a link page with both products.
 2. Pins. Pin the 1 Nov Polo post, "S Class Perfection" and your best Switzerland post. Those are your best converter, your most shared post and your best-liked post.
 3. Highlights. Put the Polo and S55 highlights first and give them clear covers. New visitors should see the two cars in one second.
 4. Hashtag typos. Edit #volksvagen to #volkswagen and #contentcreater to #contentcreator on the posts that have them.
