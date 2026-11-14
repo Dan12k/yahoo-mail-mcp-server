@@ -48,7 +48,7 @@ Captions went lazy from late October - one-liners with nothing to reply to. What
 - Plan two weeks of posts around the first Parked Up episode.
 - Fix bio link mismatch.
 - Yahoo mail and the built-in browser are disconnected until the chat is reopened in the desktop app.
-- Weekly insights review task still not set up - see part 2.
+- Weekly insights review task created 14 Nov, but Windsor.ai still needs adding to it - see part 2.
 
 ---
 
@@ -66,7 +66,11 @@ A scheduled task that runs every Monday at 8:00am Europe/London. It reviews the 
 - Sammy chose to connect an Instagram analytics connector (Windsor.ai or Supermetrics) instead of using Chrome or sending screenshots each week. Not confirmed connected yet.
 - The account must be a Creator or Business account to get insights.
 - Check that the connector's free tier covers Instagram.
-- 14 Nov check from a cloud session: no Instagram or Supermetrics tools were available there either, so this is still blocked.
+- 14 Nov update: Windsor.ai is connected (Instagram connector, account carswithsammy, id 17841430493341516). A test pull worked: reach, views, likes, comments, saves, shares, follows per post, profile visits, reel watch time and skip rate, plus daily new followers.
+- Data gap: Instagram doesn't give follows or profile visits per reel. Reels are judged on daily new followers around the post date instead (an estimate).
+- Use media_like_count / media_comments_count. The media_total_* fields came back empty.
+- Scheduled task "Weekly Instagram review - carswithsammy" (trig_01XjXgbH11AAAF6aybNWtAuG) created. Runs Mondays 7:47am Europe/London, fresh session each time, push notification. First run 16 Nov.
+- Open: the task was saved WITHOUT the Windsor.ai connector (this organization doesn't allow attaching it from a session). Windsor.ai has to be added to the task in claude.ai, or the run will report that the tools are missing.
 
 ## Next steps
 1. Confirm the connector is live and can pull post-level data for @carswithsammy: reach, views, saves, shares, watch time, follows, profile visits.
