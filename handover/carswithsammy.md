@@ -105,3 +105,4 @@ Profile (14 Nov): name field stays as just "Sammy" (her choice - don't suggest c
 
 ## Weekly review log
 16 Nov (week 9-15 Nov): 122 new followers Mon-Sat (about 20/day, Sunday's count not in yet). Baseline 18/day, the week before 26/day. 10 posts: 9 reels (7 on Sun 15th, which look like trials - 99% non-follower reach that day) and 1 carousel. "Rate the Cold Start 1-10" (S55) reached 18,722 with 152 shares and 167 saves, her biggest reel in the 30 days we can see. "I'm the second girlfriend" had the best watch time (6.3s, 40% skip, 70 shares). "What's one car everyone hates" reel flopped (114 reach, 90% skip). 11 Nov carousel 0.6 follows/1k. Windsor does pick up trial reels. 5 comment replies drafted, waiting on Sammy's approval.
+16 Nov: replies posted (approved) to scottyh1010, umut_aratt, vishnuhalikere and konstantin.baumgartner. leon_iam06 skipped by Sammy.
